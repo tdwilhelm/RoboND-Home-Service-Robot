@@ -97,6 +97,3 @@ https://github.com/tdwilhelm/RoboND-Home-Service-Robot.git
 
 * Run ./home_service.sh in Scripts directory to deploy the home service robot.
 ```  
-## Videos  
- 
-![](final_demo.gif)
