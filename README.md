@@ -99,4 +99,4 @@ https://github.com/tdwilhelm/RoboND-Home-Service-Robot.git
 ```  
 ## Videos  
  
-![Demo](final_demo.gif)
+![](final_demo.gif)
