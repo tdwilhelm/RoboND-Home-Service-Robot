@@ -96,4 +96,7 @@ https://github.com/tdwilhelm/RoboND-Home-Service-Robot.git
 * cd ~/catkin_ws catkin_make
 
 * Run ./home_service.sh in Scripts directory to deploy the home service robot.
+
+<img scr="https://media.giphy.com/media/ul9XHuGg3uMttwkOmJ/giphy.gif" width="600">
+
 ```  
